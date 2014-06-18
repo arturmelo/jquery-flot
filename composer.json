@@ -1,0 +1,14 @@
+{
+    "name": "softcommerce/jquery-flot",
+    "description": "jQuery Flot charting library with plugins",
+    "keywords": ["jquery", "flot", "chart", "plot", "plugin"],
+    "type": "jquery-library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Oleg Ilyushyn",
+            "email": "oleg@softcommerce.com.ua",
+            "homepage": "http://softcommerce.com.ua"
+        }
+    ]
+}
