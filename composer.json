@@ -10,5 +10,24 @@
             "email": "oleg@softcommerce.com.ua",
             "homepage": "http://softcommerce.com.ua"
         }
-    ]
+    ],
+    "extra": {
+        "component": {
+            "scripts": [
+                "assets/js/jquery.flot.min.js",
+                "assets/js/excanvas.min.js"
+            ],
+            "styles": [
+                "assets/css/jquery.flot.pie.min.css",
+                "assets/css/jquery.flot.tooltip.min.css"
+            ],
+            "files": [
+                "assets/js/jquery.flot.min.js",
+                "assets/js/excanvas.min.js",
+                "assets/js/plugins/*.js",
+                "assets/css/jquery.flot.pie.min.css",
+                "assets/css/jquery.flot.tooltip.min.css"
+            ]
+        }
+    }
 }
