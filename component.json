@@ -1,0 +1,18 @@
+{
+  "name": "jquery-flot",
+  "repo": "arturmelo/jquery-flot",
+  "description": "jQuery Flot charting library with plugins",
+  "version": "0.8.3",
+  "keywords": ["jquery", "flot", "chart", "plot", "plugin"],
+  "license": "MIT",
+  "main": "assets/js/jquery.flot.min.js",
+  "styles": [
+    "assets/css/jquery.flot.pie.min.css",
+    "assets/css/jquery.flot.tooltip.min.css"
+  ],
+  "scripts": [
+    "assets/js/jquery.flot.min.js",
+    "assets/js/excanvas.min.js",
+    "assets/js/plugins/*.js"
+  ]
+}
