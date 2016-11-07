@@ -1,6 +1,6 @@
 {
   "name": "jquery-flot",
-  "repo": "arturmelo/jquery-flot",
+  "repo": "beubi/jquery-flot",
   "description": "jQuery Flot charting library with plugins",
   "version": "0.8.3",
   "keywords": ["jquery", "flot", "chart", "plot", "plugin"],
